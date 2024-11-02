@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-structure
+Version: 0.0.1
+Author: sachin bb
+Author-email: sachinbb7@gmail.com
+Requires-Dist: seaborn
+Requires-Dist: pandas
+Requires-Dist: numpy
