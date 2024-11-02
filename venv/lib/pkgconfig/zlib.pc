@@ -1,0 +1,13 @@
+prefix=/Users/sachinbb/data_science/Ml_structure/venv
+exec_prefix=/Users/sachinbb/data_science/Ml_structure/venv
+libdir=/Users/sachinbb/data_science/Ml_structure/venv/lib
+sharedlibdir=/Users/sachinbb/data_science/Ml_structure/venv/lib
+includedir=/Users/sachinbb/data_science/Ml_structure/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
