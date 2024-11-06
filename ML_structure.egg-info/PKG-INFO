@@ -6,3 +6,4 @@ Author-email: sachinbb7@gmail.com
 Requires-Dist: seaborn
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: dill
