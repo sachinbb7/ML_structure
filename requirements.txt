@@ -2,4 +2,8 @@ seaborn
 pandas
 numpy
 dill
+scikit-learn
+catboost
+xgboost
+Flask
 -e .
