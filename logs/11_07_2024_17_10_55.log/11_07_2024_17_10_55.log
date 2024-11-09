@@ -1,0 +1,10 @@
+[2024-11-07 17:10:55,300] 224 werkzeug - WARNING -  * Debugger is active!
+[2024-11-07 17:10:55,305] 224 werkzeug - INFO -  * Debugger PIN: 938-955-825
+[2024-11-07 17:11:09,297] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:09] "[33mGET /predict_data HTTP/1.1[0m" 404 -
+[2024-11-07 17:11:15,497] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:15] "GET /predictdata HTTP/1.1" 200 -
+[2024-11-07 17:11:31,933] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:31] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2024-11-07 17:11:31,945] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-11-07 17:11:31,946] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-11-07 17:11:31,950] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-11-07 17:11:31,956] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:11:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-11-07 17:13:46,615] 224 werkzeug - INFO -  * Detected change in '/Users/sachinbb/data_science/Ml_structure/src/pipeline/predict_pipeline.py', reloading

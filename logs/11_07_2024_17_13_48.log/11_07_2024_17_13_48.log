@@ -1,0 +1,5 @@
+[2024-11-07 17:13:48,614] 224 werkzeug - WARNING -  * Debugger is active!
+[2024-11-07 17:13:48,622] 224 werkzeug - INFO -  * Debugger PIN: 938-955-825
+[2024-11-07 17:13:49,812] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:13:49] "GET /predictdata HTTP/1.1" 200 -
+[2024-11-07 17:14:01,631] 224 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:14:01] "POST /predictdata HTTP/1.1" 200 -
+[2024-11-07 17:14:08,170] 224 werkzeug - INFO -  * Detected change in '/Users/sachinbb/data_science/Ml_structure/src/pipeline/predict_pipeline.py', reloading
