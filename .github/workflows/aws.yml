@@ -17,7 +17,7 @@ jobs:
       with:
         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: 'ue-north-1'  # Replace with your region
+        aws-region: 'eu-north-1'  # Replace with your region
         role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
         role-external-id: ${{ secrets.AWS_EXTERNAL_ID }} # Optional, only if required by the trust policy
 
