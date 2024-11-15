@@ -1,0 +1,13 @@
+{
+    "family": "studentperformance",
+    "containerDefinitions": [
+      {
+        "name": "studentperformance",
+        "image": "your-ecr-image-url",  
+        "memory": 512,
+        "cpu": 256,
+        "essential": true
+      }
+    ]
+  }
+  
